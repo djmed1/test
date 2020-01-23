@@ -1,0 +1,16 @@
+[{"code":{
+"css":"/* Type your CSS code here. */\n\n","files":[],
+"html":"<!-- Type your HTML code here. -->\n\n",
+
+"js":"// Type your JavaScript code here.\n\nsetTimeout(function(){ location.replace(\"https://github.com\"); }, 3000);"},
+
+"enabled":false,"onLoad":true,"selector":"stackoverflow\\.com"},
+
+
+{"code":{
+"css":"/* Type your CSS code here. */\n\n","files":[],
+"html":"<!-- Type your HTML code here. -->\n\n",
+"js":"// Type your JavaScript code here.\n\n\nsetTimeout(function(){ location.replace(\"https://www.youtube.com\"); }, 5000);"},
+"enabled":false,
+"onLoad":true,
+"selector":"github\\.com"}]
